@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debirro
+- 👋 Hi, I’m @debirro debuhirro or debucat
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
