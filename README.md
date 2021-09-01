@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debirro
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on our pary
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (no way)
 
 <!---
