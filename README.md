@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debiro debuhiiro or debucat
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on BiliBili
 - 📫 How to reach me (no way)
 
 <!---
